@@ -37,7 +37,6 @@ TFG/
 ├── outputs/
 │   └── figures/              # Figuras generadas
 ├── requirements.txt
-├── CITATION.cff
 └── README.md
 ```
 
