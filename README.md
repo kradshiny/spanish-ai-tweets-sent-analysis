@@ -87,18 +87,3 @@ Los datos brutos no se incluyen en el repositorio por restricciones de tamaño y
 
 La extracción se realizó mediante [twitterapi.io](https://twitterapi.io) con las palabras clave `"Inteligencia Artificial"`, `"ChatGPT"` e `"IA"`, filtrando por idioma español y excluyendo retuits y respuestas.
 
----
-
-## Cómo citar
-
-Si usas este código o los datos en tu investigación, por favor cita el trabajo usando el archivo `CITATION.cff` o el siguiente formato:
-
-> Bulgaru Merla, I. (2026). *Evolución del sentimiento hacia la inteligencia artificial en X: un estudio longitudinal en español (2022-2025)*. Trabajo de Fin de Grado, Universidad Autónoma de Madrid. https://github.com/kradshiny/spanish-ai-tweets-sent-analysis
-
-
----
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
