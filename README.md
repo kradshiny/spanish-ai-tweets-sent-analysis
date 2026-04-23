@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27004579/README.md)# Evolución del sentimiento hacia la inteligencia artificial en X: un estudio longitudinal en español (2022-2025)
+(https://github.com/user-attachments/files/27004579/README.md)# Evolución del sentimiento hacia la inteligencia artificial en X: un estudio longitudinal en español (2022-2025)
 
 **Trabajo de Fin de Grado — Grado en Análisis de Datos en la Empresa (Business Analytics)**  
 Universidad Autónoma de Madrid · Curso 2025/2026
